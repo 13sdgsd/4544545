@@ -1,0 +1,145 @@
+using System;
+using System.Globalization;
+using System.Windows.Data;
+
+namespace VaultList
+{
+    public class ConnectButtonTextConverter : IValueConverter
+    {
+        public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            return (bool)value ? "断开连接" : "连接到 Vault";
+        }
+
+        public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            throw new NotImplementedException();
+        }
+    }
+}using System;
+using System.Globalization;
+using System.Windows.Data;
+
+namespace VaultList
+{
+    public class ConnectButtonTextConverter : IValueConverter
+    {
+        public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            return (bool)value ? "断开连接" : "连接到 Vault";
+        }
+
+        public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            throw new NotImplementedException();
+        }
+    }
+}using System;
+using System.Globalization;
+using System.Windows.Data;
+
+namespace VaultList
+{
+    public class ConnectButtonTextConverter : IValueConverter
+    {
+        public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            return (bool)value ? "断开连接" : "连接到 Vault";
+        }
+
+        public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            throw new NotImplementedException();
+        }
+    }
+}using System;
+using System.Globalization;
+using System.Windows.Data;
+
+namespace VaultList
+{
+    public class ConnectButtonTextConverter : IValueConverter
+    {
+        public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            return (bool)value ? "断开连接" : "连接到 Vault";
+        }
+
+        public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            throw new NotImplementedException();
+        }
+    }
+}using System;
+using System.Globalization;
+using System.Windows.Data;
+
+namespace VaultList
+{
+    public class ConnectButtonTextConverter : IValueConverter
+    {
+        public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            return (bool)value ? "断开连接" : "连接到 Vault";
+        }
+
+        public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            throw new NotImplementedException();
+        }
+    }
+}using System;
+using System.Globalization;
+using System.Windows.Data;
+
+namespace VaultList
+{
+    public class ConnectButtonTextConverter : IValueConverter
+    {
+        public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            return (bool)value ? "断开连接" : "连接到 Vault";
+        }
+
+        public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            throw new NotImplementedException();
+        }
+    }
+}using System;
+using System.Globalization;
+using System.Windows.Data;
+
+namespace VaultList
+{
+    public class ConnectButtonTextConverter : IValueConverter
+    {
+        public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            return (bool)value ? "断开连接" : "连接到 Vault";
+        }
+
+        public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            throw new NotImplementedException();
+        }
+    }
+}using System;
+using System.Globalization;
+using System.Windows.Data;
+
+namespace VaultList
+{
+    public class ConnectButtonTextConverter : IValueConverter
+    {
+        public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            return (bool)value ? "断开连接" : "连接到 Vault";
+        }
+
+        public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            throw new NotImplementedException();
+        }
+    }
+}
